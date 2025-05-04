@@ -1,7 +1,5 @@
 ---
 title: Brand Assessor & Consumer Research
-sidebar:
-  order: 5
 ---
 
 ## What it is:

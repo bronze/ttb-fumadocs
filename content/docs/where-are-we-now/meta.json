@@ -1,3 +1,4 @@
 {
-  "pages": ["index", "category-checklist", "brand-performance-checklist", "brand-user-checklist", "client-business-checklist", "brand-assessor-checklist"]
+  "title": "Where Are We Now?",
+  "pages": ["category-checklist", "brand-performance-checklist", "brand-user-checklist", "client-business-checklist", "brand-assessor-checklist"]
 }
