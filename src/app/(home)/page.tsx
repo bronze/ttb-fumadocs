@@ -5,8 +5,8 @@ import JWThompson from "./J_Walter_Thompson.png";
 
 export default function HomePage() {
   return (
-    <main className="flex flex-1 flex-col justify-center text-center">
-      <h1 className="mb-4 text-2xl font-bold">The Thompson Way of Total Branding</h1>
+    <main className="container relative max-w-6xl flex flex-1 flex-col justify-center ">
+      <h1 className="text-center mb-12 text-2xl font-bold">The Thompson Way of Total Branding</h1>
       <div className="container flex flex-col lg:flex-row md:grid-cols-2 items-center gap-16 pb-4 ">
         <div className="lg:order-last">
           <Image src={JWThompson} alt="Architecture" className="mx-auto w-full max-w-[400px] invert dark:invert-0 lg:mx-0" />
