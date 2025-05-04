@@ -1,6 +1,5 @@
 ---
 title: TTB Overview
-tableOfContents: false
 ---
 
 ```
