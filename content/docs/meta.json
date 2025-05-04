@@ -1,0 +1,24 @@
+{
+  "title": "TTB",
+  "icon": "Building2",
+
+  "pages": [
+    "---Introduction---",
+    "index",
+    "the-planning-cycle",
+    "ttb-overview",
+    "---TTB---",
+    "where-are-we-now",
+    "why-are-we-there",
+    "where-could-we-be",
+    "how-can-we-get-there",
+    "are-we-getting-there",
+
+    "---Writing---",
+    "page-conventions",
+    "markdown",
+    "navigation",
+    "---UI---",
+    "..."
+  ]
+}
