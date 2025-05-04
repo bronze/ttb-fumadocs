@@ -1,7 +1,5 @@
 ---
-title: Brand Discoveries Tools
-sidebar:
-  order: 3
+title: Brand Map
 ---
 
 # Brand Discoveries Tools

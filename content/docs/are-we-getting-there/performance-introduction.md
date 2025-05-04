@@ -1,13 +1,12 @@
 ---
 title: Performance Evaluation Introduction
-sidebar:
-  order: 2
 ---
 
 An essential aspect of communications planning is accountability - both for purposes of measurement and learning. Not only do we need to know how well we've accomplished our objectives, we need to continually assess our performance to understand how to do it even better next time.
 
 There is a three part Thompson Way approach to evaluating TOTAL BRANDING Communications.
 
+```
 ![](https://web.archive.org/web/20150323182708im_/http://jura.com.br/jwt/PEOVER.BMP)
 
 In order of priority, there are three different types of objectives for Brand communications:
@@ -29,3 +28,4 @@ There are two tools to help set out Performance Evaluation.
 This sets out the type of measurements for each of the communication objectives and suggests appropriate research tools.
 
 - [Performance Evaluation Workplan](./performance-workplan)
+```

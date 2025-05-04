@@ -2,13 +2,15 @@
 title: Current Brand Situation
 ---
 
-What it is:
+## What it is:
 
 A distillation of the brand's current relationship with consumers, based upon Brand Assessor Research and Brand Asset evaluation.
-What its for:
+
+## What its for:
 
 The Current Situation articulates where the brand is now, so that you can go on to suggest what changes in the brand's relationship require changing. It is written as if the brand is alive, as if it is a living creature with a relationship, character, personality and ability to communicate.
-How to do it:
+
+## How to do it:
 
 Firstly, set down your observations about the brand's essential appeal. How does it appeal to reason; the senses; the emotions? Does it convey any special benefits in user identity from its purchase? Does it make the user feel smarter, younger, fresher, more respected, etc.?
 

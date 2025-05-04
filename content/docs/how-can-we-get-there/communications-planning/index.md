@@ -1,7 +1,5 @@
 ---
 title: Communications Planning
-sidebar:
-  order: 4
 ---
 
 # Communications Planning

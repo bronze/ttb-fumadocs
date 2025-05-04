@@ -3,6 +3,7 @@
   "icon": "Building2",
 
   "pages": [
+    "[Triangle][Vercel](https://vercel.com)",
     "---Introduction---",
     "index",
     "the-planning-cycle",

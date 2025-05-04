@@ -4,9 +4,9 @@ title: Research Guidelines (1)
 
 BrandAssessor Research can only be done by an experienced qualitative researcher. The better the researcher, the greater the value will be.
 
-Research Briefing Format
+## Research Briefing Format
 
-Objectives of the Research
+### Objectives of the Research
 
 The most important point to lay out is what this research is to be used for, what decisions will be taken as a result, what initial working hypothesis are to be validated/devalidated
 

@@ -1,7 +1,5 @@
 ---
 title: Are We Getting There
-sidebar:
-  order: 1
 ---
 
 # Are We Getting There
@@ -16,5 +14,6 @@ Performance Evaluation
 
 ### The Tools
 
-- [Performance Evaluation Introduction and Checklist](./performance-introduction)
-- [Performance Evaluation Workplan](./performance-workplan)
+- [Performance Evaluation Introduction](./are-we-getting-there/performance-introduction)
+- [Performance Evaluation Checklist](./are-we-getting-there/performance-checklist)
+- [Performance Evaluation Workplan](./are-we-getting-there/performance-workplan)

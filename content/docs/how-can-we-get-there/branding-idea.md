@@ -1,7 +1,5 @@
 ---
-title: Branding Idea 123
-sidebar:
-  order: 2
+title: Branding Idea
 ---
 
 # Branding Idea 123

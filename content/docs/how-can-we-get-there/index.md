@@ -16,8 +16,8 @@ Branding Idea - Communications Plan - Creative Briefs
 
 ### The Tools
 
-- [Branding Idea 1-2-3](./branding-idea)
-- [Branding Properties Audit](./branding-properties-audit) (Why Are We There)
-- [Communications Planning](./communications-planning)
-- [Creative Briefs](./creative-briefs)
-- [Creative Development Research Guidelines](./creative-research)
+- [Branding Idea](./how-can-we-get-there/branding-idea)
+- [Branding Properties Audit](./how-can-we-get-there/branding-properties-audit) (Why Are We There)
+- [Communications Planning](./how-can-we-get-there/communications-planning)
+- [Creative Briefs](./how-can-we-get-there/creative-briefs)
+- [Creative Development Research Guidelines](./how-can-we-get-there/creative-research)
