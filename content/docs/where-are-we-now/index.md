@@ -14,8 +14,8 @@ Current Brand Situation
 
 ## The Tools
 
-- [Category/Market Dynamics Checklist](./category-checklist)
-- [Brand Performance Checklist](./brand-performance-checklist)
-- [Brand User Checklist](./brand-user-checklist)
-- [Client Business Checklist](./client-business-checklist)
-- [BrandAssessor Research](./brand-assessor-checklist)
+- [Category/Market Dynamics Checklist](./where-are-we-now/category-checklist)
+- [Brand Performance Checklist](./where-are-we-now/brand-performance-checklist)
+- [Brand User Checklist](./where-are-we-now/brand-user-checklist)
+- [Client Business Checklist](./where-are-we-now/client-business-checklist)
+- [BrandAssessor Research](./where-are-we-now/brand-assessor-checklist)
