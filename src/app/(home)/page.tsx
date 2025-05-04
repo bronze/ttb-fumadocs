@@ -5,18 +5,31 @@ import JWThompson from "./J_Walter_Thompson.png";
 export default function HomePage() {
   return (
     <main className="flex flex-1 flex-col justify-center text-center">
-      <h1 className="mb-4 text-2xl font-bold">Hello World</h1>
+      <h1 className="mb-4 text-2xl font-bold">The Thompson Way of Total Branding</h1>
       <div className="container grid md:grid-cols-2 items-center gap-4 pb-4 ">
         <div className="md:order-last">
           <Image src={JWThompson} alt="Architecture" className="mx-auto w-full max-w-[400px] invert dark:invert-0 lg:mx-0" />
         </div>
-        <div className="">
+        <div className="space-y-4">
           <p className="text-fd-muted-foreground">
-            You can open{" "}
-            <Link href="/docs" className="text-fd-foreground font-semibold underline">
-              /docs
+            Em 2014 o Jurandir Craveiro compartilhou o trabalho que fez convertendo o conteúdo de CD pra web, que mencionou aqui:
+            <a className="px-1 text-fd-foreground font-semibold underline" href="https://www.jura.com.br/premio-gp-formadores/">
+              https://www.jura.com.br/premio-gp-formadores/
+            </a>
+          </p>
+          <p className="text-fd-muted-foreground">
+            Infelizmente o{" "}
+            <a href="https://web.archive.org/web/20180716190000/http://jura.com.br/jwt/Fset001.htm" className="text-fd-foreground font-semibold underline px-1">
+              conteúdo original
+            </a>{" "}
+            não está mais acessível na web.
+          </p>
+          <p className="text-fd-muted-foreground">
+            Acessando o histórico do site no WebArchive, estou atualizando o material pra uma plataforma mais moderna. Clique em{" "}
+            <Link href="/docs" className="text-fd-foreground font-semibold underline px-1">
+              Documentation
             </Link>{" "}
-            and see the documentation.
+            para ver o conteúdo disponível.
           </p>
         </div>
       </div>
