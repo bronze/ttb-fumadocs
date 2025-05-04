@@ -7,8 +7,8 @@ export default function HomePage() {
   return (
     <main className="flex flex-1 flex-col justify-center text-center">
       <h1 className="mb-4 text-2xl font-bold">The Thompson Way of Total Branding</h1>
-      <div className="container flex md:grid-cols-2 items-center gap-16 pb-4 ">
-        <div className="md:order-last">
+      <div className="container flex flex-col lg:flex-row md:grid-cols-2 items-center gap-16 pb-4 ">
+        <div className="lg:order-last min-w-[30vw]">
           <Image src={JWThompson} alt="Architecture" className="mx-auto w-full max-w-[400px] invert dark:invert-0 lg:mx-0" />
         </div>
         <div className="space-y-4">
@@ -23,7 +23,7 @@ export default function HomePage() {
             <a href="https://web.archive.org/web/20180716190000/http://jura.com.br/jwt/Fset001.htm" className="text-fd-foreground font-semibold underline px-1">
               conteúdo original
             </a>{" "}
-            não está mais acessível na web.
+            está acessível apenas atraves do WebArchive, e o site original não está mais disponível.
           </p>
           <p className="text-fd-muted-foreground">
             Acessando o histórico do site no WebArchive, estou atualizando o material pra uma plataforma mais moderna. Clique em{" "}
