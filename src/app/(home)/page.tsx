@@ -1,12 +1,13 @@
 import Link from "next/link";
 import Image from "next/image";
 import JWThompson from "./J_Walter_Thompson.png";
+// import {Card, Cards} from "fumadocs-ui/components/card";
 
 export default function HomePage() {
   return (
     <main className="flex flex-1 flex-col justify-center text-center">
       <h1 className="mb-4 text-2xl font-bold">The Thompson Way of Total Branding</h1>
-      <div className="container grid md:grid-cols-2 items-center gap-4 pb-4 ">
+      <div className="container grid md:grid-cols-2 items-center gap-16 pb-4 ">
         <div className="md:order-last">
           <Image src={JWThompson} alt="Architecture" className="mx-auto w-full max-w-[400px] invert dark:invert-0 lg:mx-0" />
         </div>
@@ -30,6 +31,10 @@ export default function HomePage() {
               Documentation
             </Link>{" "}
             para ver o conteúdo disponível.
+            {/* <Cards>
+              <Card title="Documentation" href="/docs" />
+              <Card title="Learn more about Fumadocs" href="https://fumadocs.vercel.app" />
+            </Cards> */}
           </p>
         </div>
       </div>
