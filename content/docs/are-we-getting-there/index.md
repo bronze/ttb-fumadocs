@@ -14,6 +14,6 @@ Performance Evaluation
 
 ### The Tools
 
-- [Performance Evaluation Introduction](./performance-introduction.md)
+- [Performance Evaluation Introduction](./performance-introduction/index.md)
 - [Performance Evaluation Checklist](./performance-checklist.md)
 - [Performance Evaluation Workplan](./performance-workplan.md)

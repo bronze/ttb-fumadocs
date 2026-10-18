@@ -157,10 +157,10 @@ Tracks moving the archived **Thompson Total Branding** site (`http://jura.com.br
 ## Are We Getting There (A)
 
 - [x] [**Are We Getting There?**](https://web.archive.org/web/20150323174532/http://jura.com.br/jwt/A000ARE.HTM) `A000ARE.HTM` · 59w → `are-we-getting-there/index.md` (67%)
-  - [x] [**Performance Evaluation Introduction**](https://web.archive.org/web/20150323182708/http://jura.com.br/jwt/A100TOO1.HTM) `A100TOO1.HTM` · 268w → `are-we-getting-there/performance-introduction.md` (100%) — Includes the `PEOVER.BMP` diagram.
+  - [x] [**Performance Evaluation Introduction**](https://web.archive.org/web/20150323182708/http://jura.com.br/jwt/A100TOO1.HTM) `A100TOO1.HTM` · 268w → `are-we-getting-there/performance-introduction/index.md` (100%) — Includes the `PEOVER.BMP` diagram.
     - ⚠ ~~Action~~ `A110TOO1.HTM`: never archived
-    - [x] [**Involvement**](https://web.archive.org/web/20150603055257/http://jura.com.br/jwt/A120TOO1.HTM) `A120TOO1.HTM` · 121w → `are-we-getting-there/involvement.md` (100%)
-    - [x] [**Communication**](https://web.archive.org/web/20150603042524/http://jura.com.br/jwt/A130TOO1.HTM) `A130TOO1.HTM` · 92w → `are-we-getting-there/communication.md` (100%)
+    - [x] [**Involvement**](https://web.archive.org/web/20150603055257/http://jura.com.br/jwt/A120TOO1.HTM) `A120TOO1.HTM` · 121w → `are-we-getting-there/performance-introduction/involvement.md` (100%)
+    - [x] [**Communication**](https://web.archive.org/web/20150603042524/http://jura.com.br/jwt/A130TOO1.HTM) `A130TOO1.HTM` · 92w → `are-we-getting-there/performance-introduction/communication.md` (100%)
   - [x] [**Performance Evaluation Checklist**](https://web.archive.org/web/20150323161348/http://jura.com.br/jwt/A140TOO1.HTM) `A140TOO1.HTM` · 218w → `are-we-getting-there/performance-checklist.md` (87%)
   - [x] [**Performance Evaluation Workplan**](https://web.archive.org/web/20150323165750/http://jura.com.br/jwt/A150TOO1.HTM) `A150TOO1.HTM` · 255w → `are-we-getting-there/performance-workplan.md` (90%)
 

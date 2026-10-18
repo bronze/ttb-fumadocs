@@ -1,4 +1,10 @@
 {
   "title": "How Can We Get There",
-  "pages": ["communications-planning", "branding-idea", "creative-briefs", "creative-research"]
+  "pages": [
+    "branding-idea",
+    "[Branding Properties Audit](/docs/why-are-we-there/communication-discoveries/branding-properties-audit)",
+    "communications-planning",
+    "creative-briefs",
+    "creative-research"
+  ]
 }

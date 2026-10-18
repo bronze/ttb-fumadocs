@@ -20,5 +20,5 @@ It is important to understand from the outset how we expect to evaluate performa
 
 There are two tools to help set out Performance Evaluation.
 
-- [Performance Evaluation Checklist](./performance-checklist.md): This sets out the type of measurements for each of the communication objectives and suggests appropriate research tools.
-- [Performance Evaluation Workplan](./performance-workplan.md): This is a simple template to use when setting down the evaluation program.
+- [Performance Evaluation Checklist](../performance-checklist.md): This sets out the type of measurements for each of the communication objectives and suggests appropriate research tools.
+- [Performance Evaluation Workplan](../performance-workplan.md): This is a simple template to use when setting down the evaluation program.
