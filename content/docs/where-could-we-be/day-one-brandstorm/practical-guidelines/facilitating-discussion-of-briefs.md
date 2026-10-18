@@ -1,0 +1,7 @@
+---
+title: "Facilitating General Discussion of Briefs"
+---
+
+Late in the afternoon, Break-Out teams will reassemble to present and discuss their individual Strategy Briefs. Everyone will be a little burned out which is a good thing because it will minimize the importance of tiny word differences and make non-essential arguments less likely. Hopefully, a spirit of openness and compromise will prevail.
+
+As Recommendations are presented, the Facilitator and other senior team members should probe for clarity, question the rationale for key decisions and raise other issues as appropriate. As different strategic ideas are discussed, they're implicitly evaluated against the objectives set out earlier...how likely will this avenue be to achieve our desired response/desired behaviour? Different teams will inevitably compare and contrast where they came out in a lively fashion. In the discussion of similarities and differences, it may become apparent whether differences are fundamental or just semantic. If it is possible to forge consensus on one direction and achieve compromise then and there, you may want to try to wordsmith a Workplan and Brand Vision on the spot. If not (which is typical) the Facilitator should clearly summarize the different directions. The core team can then decide who will participate in the Morning After session a day or two hence and set up a timetable for getting back to the whole group with a final recommendation for review and approval, or with a recommendation for testing hypotheses via BrandCepts.
