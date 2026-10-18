@@ -1,7 +1,7 @@
 import "./global.css";
 import {PostHogProvider} from "./providers";
 import {baseUrl, createMetadata} from "@/lib/metadata";
-import {RootProvider} from "fumadocs-ui/provider";
+import {RootProvider} from "fumadocs-ui/provider/next";
 import {Inter} from "next/font/google";
 import type {ReactNode} from "react";
 
