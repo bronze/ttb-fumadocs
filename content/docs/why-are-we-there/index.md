@@ -18,6 +18,8 @@ Key Discoveries
 
 - [Category/Market Discoveries Checklist](./category-checklist.md)
 - [Brand Discovery Tools](./brand-tools/index.md)
+  - [SWOT Analysis](./brand-tools/swot-analysis.md)
+  - [Brand Map](./brand-tools/brand-map.md)
 - [Consumer Discoveries](./consumer-discoveries/index.md)
   - [Target Audience Analysis](./consumer-discoveries/target-audience-analysis.md)
   - [Consumer Buying System](./consumer-discoveries/consumer-buying-system/index.md)
