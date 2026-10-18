@@ -1,35 +1,23 @@
 ---
-title: Consumer Discoveries
-sidebar:
-  order: 4
+title: "Consumer Discoveries"
 ---
 
-# Consumer Discoveries
+## What it is:
 
-## Target Audience Analysis
+A way to understand the core consumer's behaviour, thoughts and feelings about the category and the brand, to gain insights into improving the brand's position.
 
-## Consumer Buying System
+## What its for:
 
-### Trigger
+To focus on what aspects of consumer behaviour, attitudes and feelings the brand can tap into.
 
-### Considering
+## How to do it:
 
-### Searching
+The consumer is the focus of all brand building. Understanding the consumer is central to the work of the planner and is vital to the Thompson Way of TOTAL BRANDING. To those familiar with the Thompson Way, we have retained and enhanced the Consumer Buying System, and have added a similar approach for retail and service, the Customer Relationship System.
 
-### Choosing
+Firstly, define your key target audiences using the [Target Audience Analysis](./target-audience-analysis.md).
 
-### Acquiring
+Next, use either the...
 
-### Experiencing
+[Consumer Buying System Tool](./consumer-buying-system/index.md) (FMCG. Durables), or the...
 
-## Customer Relationship System
-
-### Introduction
-
-### Trying out
-
-### Appreciating
-
-### Deepening
-
-### Loyalty
+[Customer Relationship System Tool](./customer-relationship-system/index.md) (service/retail).
